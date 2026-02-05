@@ -11,8 +11,9 @@ import SwiftUI
 struct TestTappyTabsApp: App {
     var body: some Scene {
         WindowGroup {
-            //TestView()
-            IntegratedTranscriptionView()
+            AppEntryView()
+//            TestView() //This view lets you get tabs from videos
+//            IntegratedTranscriptionView() //This one does it from live camera feeds 
         }
     }
 }
