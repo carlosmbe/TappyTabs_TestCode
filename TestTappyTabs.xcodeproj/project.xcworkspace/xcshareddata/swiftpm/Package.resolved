@@ -1,0 +1,33 @@
+{
+  "originHash" : "878793423f1f6dcc0f58fa30c4027ccaa510e8892ef50400d1d05410ab2550b9",
+  "pins" : [
+    {
+      "identity" : "basicpitchswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zhangyufei49/BasicPitchSwift",
+      "state" : {
+        "revision" : "15c04712da2d7e37e4a6c06268224bd359452be0",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "midikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/MIDIKit.git",
+      "state" : {
+        "revision" : "2e856b27af1ebdeb41017ec9e3ac0cd3ae1411a2",
+        "version" : "0.10.5"
+      }
+    },
+    {
+      "identity" : "timecodekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/TimecodeKit",
+      "state" : {
+        "revision" : "957fdaeda020396d150ee1afc7c5172791cb0ad5",
+        "version" : "2.3.4"
+      }
+    }
+  ],
+  "version" : 3
+}
